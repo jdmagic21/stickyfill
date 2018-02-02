@@ -1,0 +1,21 @@
+{
+  "name": "stickyfilljs",
+  "description": "Polyfill for CSS `position: sticky`",
+  "main": "dist/stickyfill.js",
+  "authors": [
+    "[object Object]"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "sticky",
+    "polyfill"
+  ],
+  "homepage": "https://github.com/jdmagic21/stickyfill",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
