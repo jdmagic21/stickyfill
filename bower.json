@@ -17,5 +17,8 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "devDependencies": {
+    "stickyfill": "git://github.com/jdmagic21/stickyfill.git#^2.0.3"
+  }
 }
